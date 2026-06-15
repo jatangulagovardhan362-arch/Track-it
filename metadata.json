@@ -1,0 +1,6 @@
+{
+  "name": "Price History Tracker",
+  "description": "A beautiful liquid-glass iOS styled app to track price history and get notified when prices drop to their lowest ever.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
